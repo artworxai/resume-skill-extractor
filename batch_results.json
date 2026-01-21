@@ -1,0 +1,113 @@
+{
+  "timestamp": "2026-01-21T14:51:19.587618",
+  "summary": {
+    "total_resumes": 1,
+    "successful": 1,
+    "failed": 0,
+    "unique_skills": {
+      "programming_languages": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ],
+      "frameworks": [
+        "Bootstrap",
+        "Flask",
+        "HuggingFace",
+        "LangChain",
+        "Next.js",
+        "React",
+        "Tailwind CSS"
+      ],
+      "tools": [
+        "Git",
+        "GitHub",
+        "Google Workspace",
+        "Linux",
+        "Ubuntu"
+      ],
+      "databases": [
+        "Chroma"
+      ],
+      "cloud_platforms": [
+        "AWS EC2"
+      ],
+      "other_technical_skills": [
+        "AI",
+        "Claude API",
+        "Cloud Computing",
+        "Cybersecurity",
+        "Few-Shot Learning",
+        "Generative AI",
+        "LLM Integration",
+        "Machine Learning",
+        "NLP",
+        "Network Security",
+        "Networks",
+        "Prompt Engineering",
+        "RESTful APIs",
+        "Security Operations Center",
+        "Vector Databases"
+      ]
+    },
+    "total_unique_skills": 34
+  },
+  "individual_results": [
+    {
+      "filename": "Dana W. Martinez Resume.docx",
+      "status": "success",
+      "text_length": 3167,
+      "skills": {
+        "programming_languages": [
+          "Python",
+          "JavaScript",
+          "TypeScript",
+          "HTML",
+          "CSS"
+        ],
+        "frameworks": [
+          "React",
+          "Next.js",
+          "Flask",
+          "LangChain",
+          "HuggingFace",
+          "Bootstrap",
+          "Tailwind CSS"
+        ],
+        "tools": [
+          "Git",
+          "GitHub",
+          "Linux",
+          "Ubuntu",
+          "Google Workspace"
+        ],
+        "databases": [
+          "Chroma"
+        ],
+        "cloud_platforms": [
+          "AWS EC2"
+        ],
+        "other_technical_skills": [
+          "NLP",
+          "LLM Integration",
+          "Claude API",
+          "Prompt Engineering",
+          "Few-Shot Learning",
+          "Vector Databases",
+          "RESTful APIs",
+          "Machine Learning",
+          "AI",
+          "Cybersecurity",
+          "Cloud Computing",
+          "Networks",
+          "Network Security",
+          "Generative AI",
+          "Security Operations Center"
+        ]
+      },
+      "total_skills": 34
+    }
+  ]
+}
